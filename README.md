@@ -7,3 +7,4 @@ It is designed according to the degree requirements of undergraduate math majors
 as it is assumed most of the people following this curriculum are already educated outside the field of math.
 The courses themselves are among the very best in the world, often coming from Harvard, MIT, Stanford, etc.,
 but specifically chosen to meet the following criteria.
+Fork the repository, make your changes, and submit a pull request. Include a description of your changes and run tests to ensure functionality.
