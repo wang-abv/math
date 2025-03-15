@@ -1,13 +1,3 @@
-# Contents
-
-- [Summary](#summary)
-- [Community](#community)
-- [Code of conduct](#code-of-conduct)
-- [Curriculum](#curriculum)
-- [License](#license)
-
-# Summary
-
 The OSSU curriculum is a **complete education in mathematics** using online materials.
 It's for those who want a proper grounding in concepts fundamental to all math disciplines,
 and for those who have the discipline, will, and good habits to obtain this education largely on their own,
